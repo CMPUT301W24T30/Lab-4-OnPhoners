@@ -7,6 +7,8 @@ public abstract class Shape {
 
     String color = "Hyperbolic Orange";
 
+    String color = "Hyperbolic Orange";
+
     Shape(int x, int y) {
         this.x = x;
         this.y = y;
